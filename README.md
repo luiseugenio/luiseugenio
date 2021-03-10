@@ -13,5 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 📌 I'm from Fortaleza, Ceara, Brazil.
-- 💻 I’m currently working remotely on [Ad Reform](https://github.com/adreform).
 - 📫 You can reach me: luis@luzinova.com.br
