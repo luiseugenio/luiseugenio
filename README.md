@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - 😄 He/Him
 - 📌 I'm from Fortaleza, Ceara, Brazil.
 - 🏠 Currently living in Braga, Portugal.
+- ♦️Ruby on Rails developer
 - 📫 You can reach me: luis@luzinova.com.br
