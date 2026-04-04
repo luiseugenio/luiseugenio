@@ -14,8 +14,9 @@ Real-time heart rate monitoring, technique insights, belt progression timeline &
 Built with SwiftUI, HealthKit, CoreBluetooth and Ruby on Rails.
 > Available on the App Store
 
-**[Firefox Tab Switch](https://github.com/luiseugenio/firefox-tab-switch-chrome)** — Chrome extension that brings Firefox's MRU Ctrl+Tab switching behavior to Chrome.
+**[Firefox Style Tab Switcher](https://chromewebstore.google.com/detail/firefox-style-tab-switchi/epaenpmjkncnkjmgkdgklgapoaikadhp)** — Chrome extension that brings Firefox's MRU Ctrl+Tab switching behavior to Chrome.
 Built with Chrome Extension Manifest V3. Zero data collection, no network requests.
+> [Chrome Web Store](https://chromewebstore.google.com/detail/firefox-style-tab-switchi/epaenpmjkncnkjmgkdgklgapoaikadhp) · [Source Code](https://github.com/luiseugenio/firefox-tab-switch-chrome)
 
 ---
 
