@@ -12,7 +12,7 @@
 **[The Guard BJJ](https://theguardbjj.app)** — Indie iOS training tracker for BJJ practitioners.
 Real-time heart rate monitoring, technique insights, belt progression timeline & training calendar.
 Built with SwiftUI, HealthKit, CoreBluetooth and Ruby on Rails.
-> Available on the App Store
+> [App Store](https://apps.apple.com/us/app/the-guard-bjj/id6761279064) · [Website](https://theguardbjj.app)
 
 **[Firefox Style Tab Switcher](https://chromewebstore.google.com/detail/firefox-style-tab-switchi/epaenpmjkncnkjmgkdgklgapoaikadhp)** — Chrome extension that brings Firefox's MRU Ctrl+Tab switching behavior to Chrome.
 Built with Chrome Extension Manifest V3. Zero data collection, no network requests.
