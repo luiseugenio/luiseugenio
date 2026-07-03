@@ -1,38 +1,28 @@
 ### Hi there 👋 I am Luis Eugenio.
 
-- 😄 He/Him
-- 🌍 From Fortaleza, Brazil · Living in Braga, Portugal
-- 💼 Software Engineer · 14+ years with Ruby on Rails & Java
-- 🥋 Purple Belt in Brazilian Jiu-Jitsu
+Software Engineer with **14+ years** shipping products with Ruby on Rails and Java.
 
----
+📍 From Fortaleza, Brazil · Living in Braga, Portugal 🇧🇷🇵🇹
+
+🥋 Purple Belt in Brazilian Jiu-Jitsu
 
 ### 🚀 Currently building
 
-**[The Guard BJJ](https://theguardbjj.app)** — Indie training tracker for BJJ practitioners, available on iOS and Android. Real-time heart rate monitoring, technique insights, belt progression timeline & training calendar. Built with SwiftUI, HealthKit, CoreBluetooth and a Ruby on Rails backend.
+#### The Guard BJJ
+
+A native iOS + Android BJJ platform over a shared Rails API. Local-first, with an opt-in sync layer that reconciles conflicts on its own; a live Bluetooth heart-rate pipeline driving a heart-rate-reserve calorie model; and a workout engine built to survive everything the OS throws at it.
 
 <p>
-  <a href="https://apps.apple.com/us/app/the-guard-bjj/id6761279064">
-    <img src="assets/app-store-badge.svg" alt="Download on the App Store" height="50">
-  </a>
-  <a href="https://play.google.com/store/apps/details?id=app.theguardbjj.android">
-    <img src="assets/google-play-badge.png" alt="Get it on Google Play" height="50">
-  </a>
+<a href="https://apps.apple.com/us/app/the-guard-bjj/id6761279064"><img src="assets/app-store-badge.svg" alt="Download on the App Store" height="50"></a>
+<a href="https://play.google.com/store/apps/details?id=app.theguardbjj.android"><img src="assets/google-play-badge.svg" alt="Get it on Google Play" height="50"></a>
 </p>
 
----
+#### Firefox Style Tab Switcher
 
-**[Firefox Style Tab Switcher](https://chromewebstore.google.com/detail/firefox-style-tab-switchi/epaenpmjkncnkjmgkdgklgapoaikadhp)** — Chrome extension that brings Firefox's MRU Ctrl+Tab switching behavior to Chrome. Manifest V3. Zero data collection, no network requests.
+Chrome extension that brings Firefox's MRU Ctrl+Tab switching behavior to Chrome. Manifest V3. Zero data collection, no network requests.
 
-<p>
-  <a href="https://chromewebstore.google.com/detail/firefox-style-tab-switchi/epaenpmjkncnkjmgkdgklgapoaikadhp">
-    <img src="https://img.shields.io/badge/Chrome_Web_Store-Available-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Available in the Chrome Web Store" height="50">
-  </a>
-  <a href="https://github.com/luiseugenio/firefox-tab-switch-chrome">
-    <img src="https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" height="50">
-  </a>
-</p>
+→ [Install from Chrome Web Store](https://chromewebstore.google.com/detail/firefox-style-tab-switchi/epaenpmjkncnkjmgkdgklgapoaikadhp) · [Source code on GitHub](https://github.com/luiseugenio/firefox-tab-switch-chrome)
 
----
+### 📫 Reach me
 
-- 📫 Reach me at: luis@luzinova.com.br
+[luis@luzinova.com.br](mailto:luis@luzinova.com.br)
